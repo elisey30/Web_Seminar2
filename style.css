@@ -1,0 +1,14 @@
+p,ul {
+    color: rgb(54, 186, 140);
+}
+body{
+    background-color: rgb(98, 47, 186);
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-shadow: 3px 3px 1px rgb(7, 111, 7);
+}
+h2{
+    color: rgb(255, 0, 119);
+}
